@@ -7,7 +7,7 @@ http://ee.ogi.edu/NSEL/     (Beta Release v1.0)
 
 ---
 
-The SpEAR Datbase contains carefully selected samples of noise
+The SpEAR Database contains carefully selected samples of noise
 corrupted speech with clean speech references. This beta version is a
 small initial release of the database to allow feedback for future
 developments of this resource.
