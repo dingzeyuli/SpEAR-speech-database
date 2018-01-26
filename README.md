@@ -1,5 +1,7 @@
+original source: http://web.archive.org/web/20060831010952/http://cslu.ece.ogi.edu/nsel/data/SpEAR_database.html
 
-#SpEAR Database       
+#SpEAR (Speech Enhancement and Assessment Resource) Database    
+   
 http://ee.ogi.edu/NSEL/     (Beta Release v1.0) 
 
 
@@ -15,7 +17,11 @@ re-recorded.  Synchronous clocking is used to provide an exact
 time-aligned reference to the clean speech signal (see Technical
 Details).
 
-Contents:
+### Download
+
+- [zip format](https://github.com/dingzeyuli/SpEAR-speech-database/archive/master.zip)
+
+### Contents: ([more detailed description](./details.md))
 
 - Original Speech Files (TIMIT/)
 
