@@ -21,7 +21,7 @@ Details).
 
 - [zip format](https://github.com/dingzeyuli/SpEAR-speech-database/archive/master.zip)
 
-### Contents: ([more detailed description](./details.md))
+### Contents ([more detailed description](./details.md))
 
 - Original Speech Files (TIMIT/)
 
@@ -48,3 +48,20 @@ as follows:
 
 
 
+### People
+
+**Principle Investigator:**  
+  
+
+*   [Eric Wan](http://web.cecs.pdx.edu/~ericwan/)  
+    
+
+  
+**Graduate Research Assistants:**  
+  
+
+*   Houwu Bai
+    
+*   Rudolph van der Merwe
+    
+*   Alex T. Nelson (graduated 2000)
